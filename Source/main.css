@@ -1,8 +1,25 @@
-.jumbotron .container
-{
-    background-image: url("Source/Head_Background_Tilikum.jpg");
+.jumbotron   
+{  
+    background-size: cover;
     background: no-repeat;
     height: 220px;
     text-align: center;
     padding-bottom: 30px;
+}
+
+.option-buttons
+{
+    padding-top: 100px;
+}
+
+.option-buttons .response-option a
+{
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+.option-buttons .cited-option a
+{
+    font-size: 30px;
+    padding-left: 50px;
 }
